@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">House of Small Wonder</string>
+    <string name="store_name">House of Small Wonder</string>
+    <string name="logo">logo</string>
+    <string name="photo">photo</string>
+    <string name="store_type">咖啡馆</string>
+    <string name="address">77 N 6th St, Brooklyn, NY 11211</string>
+    <string name="website">website</string>
+    <string name="url">houseofsmallwonder.com</string>
+    <string name="phone">telephone number</string>
+    <string name="phonenum">(718) 388-6160</string>
+    <string name="noteicon">noteicon</string>
+    <string name="note">I love fig brie apple sandwich ^_^</string>
 </resources>
